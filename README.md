@@ -45,7 +45,7 @@ Untuk memahami pola dasar dalam data, digunakan metode **STL (Seasonal and Trend
 
 ### 3. Analisis Elastisitas Harga
 * **Model Awal:** Regresi linear sederhana antara harga dan penjualan menunjukkan hubungan yang menyesatkan karena tidak memperhitungkan tren dan musiman.
-![Scatter Plot Harga vs Penjualan Awal](https://i.imgur.com/gI2Qd7u.png)
+![Scatter Plot Harga vs Penjualan Awal](Scatter%20Plot%20Harga%20vs%20Penjualan%20Awal.png)
 * **Model Robust:** Dengan menggunakan **Regresi OLS** yang memasukkan komponen tren dan musiman sebagai variabel kontrol, elastisitas harga yang sebenarnya berhasil diungkap.
 
 ### 4. Peramalan & Simulasi Inventori
