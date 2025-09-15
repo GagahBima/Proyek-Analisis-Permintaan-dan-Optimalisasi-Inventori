@@ -41,17 +41,17 @@ Untuk memahami pola dasar dalam data, digunakan metode **STL (Seasonal and Trend
 * **Tren Pertumbuhan:** Tren penjualan yang meningkat secara signifikan sejak tahun 2015.
 * **Pola Musiman Mingguan:** Siklus penjualan yang berulang setiap minggu (misalnya, puncak di akhir pekan).
 
-![Grafik Dekomposisi STL](Grafik%20Dekomposisi%20STL.png)
+![Grafik Dekomposisi STL](images/Grafik%20Dekomposisi%20STL.png)
 
 ### 3. Analisis Elastisitas Harga
 * **Model Awal:** Regresi linear sederhana antara harga dan penjualan menunjukkan hubungan yang menyesatkan karena tidak memperhitungkan tren dan musiman.
-![Scatter Plot Harga vs Penjualan Awal](Scatter%20Plot%20Harga%20vs%20Penjualan%20Awal.png)
+![Scatter Plot Harga vs Penjualan Awal](images/Scatter%20Plot%20Harga%20vs%20Penjualan%20Awal.png)
 * **Model Robust:** Dengan menggunakan **Regresi OLS** yang memasukkan komponen tren dan musiman sebagai variabel kontrol, elastisitas harga yang sebenarnya berhasil diungkap.
 
 ### 4. Peramalan & Simulasi Inventori
 * Model peramalan dikembangkan untuk memprediksi permintaan harian. Kinerja model divalidasi selama 90 hari dan terbukti 42% lebih akurat daripada metode baseline, seperti yang ditunjukkan di bawah ini.
 
-![Grafik Validasi Aktual vs Prediksi](Grafik%20Validasi%20Aktual%20vs%20Prediksi.png)
+![Grafik Validasi Aktual vs Prediksi](images/Grafik%20Validasi%20Aktual%20vs%20Prediksi.png)
 
 * Hasil ramalan yang valid ini kemudian dimasukkan ke dalam **simulasi inventori** dengan kebijakan **Reorder Point (ROP)** dinamis untuk memproyeksikan tingkat stok di masa depan dan menandai minggu-minggu berisiko.
 
