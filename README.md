@@ -37,7 +37,7 @@ Puncak dari analisis ini adalah simulasi inventori yang menggunakan hasil perama
 Grafik ini secara dramatis menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan mengalami stockout total** pada pertengahan September, di mana penjualan akan anjlok ke nol meskipun permintaan pasar masih tinggi.
 
 **--> (VISUALISASI UTAMA ANDA MASUK DI SINI) <--**
-![Grafik Simulasi Inventori dan Proyeksi Stockout](image_187922.png)
+![Grafik Simulasi Inventori dan Proyeksi Stockout](images/Screenshot.png)
 
 ---
 
