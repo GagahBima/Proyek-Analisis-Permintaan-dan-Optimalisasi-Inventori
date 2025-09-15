@@ -34,7 +34,7 @@ Puncak dari analisis ini adalah simulasi inventori yang menggunakan hasil perama
 * **Permintaan Pasar (Garis Oranye):** Menunjukkan prediksi permintaan yang terus ada.
 * **Realisasi Penjualan (Garis Hijau):** Mensimulasikan penjualan aktual yang akan terjadi dengan stok yang ada.
 
-Grafik ini secara dramatis menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan mengalami stockout total** pada pertengahan September, di mana penjualan akan anjlok ke nol meskipun permintaan pasar masih tinggi.
+Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan mengalami stockout total** pada pertengahan September, di mana penjualan akan anjlok ke nol meskipun permintaan pasar masih tinggi.
 
 ![Grafik Simulasi Inventori dan Proyeksi Stockout](images/Screenshot.png)
 
