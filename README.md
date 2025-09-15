@@ -41,7 +41,7 @@ Untuk memahami pola dasar dalam data, digunakan metode **STL (Seasonal and Trend
 * **Tren Pertumbuhan:** Tren penjualan yang meningkat secara signifikan sejak tahun 2015.
 * **Pola Musiman Mingguan:** Siklus penjualan yang berulang setiap minggu (misalnya, puncak di akhir pekan).
 
-![Grafik Dekomposisi STL](https://i.imgur.com/K3VwR3w.png)
+![Grafik Dekomposisi STL](Grafik Dekomposisi STL.png)
 
 ### 3. Analisis Elastisitas Harga
 * **Model Awal:** Regresi linear sederhana antara harga dan penjualan menunjukkan hubungan yang menyesatkan karena tidak memperhitungkan tren dan musiman.
