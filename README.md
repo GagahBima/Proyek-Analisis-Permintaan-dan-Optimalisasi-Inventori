@@ -58,7 +58,7 @@ Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan m
     ```
 2.  **Install dependensi yang dibutuhkan:**
     ```bash
-    pip install -r requirements.txt
+    pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
     ```
 3.  **Jalankan notebook secara berurutan:**
     * Mulai dengan `01_Data_Cleaning.ipynb`.
