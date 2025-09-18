@@ -61,5 +61,5 @@ Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan m
     pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
     ```
 3.  **Jalankan notebook secara berurutan:**
-    * Mulai dengan `01_Data_Cleaning.ipynb`.
-    * Lanjutkan dengan notebook analisis utama (`02_Main_Analysis.ipynb`).
+    * Mulai dengan `Data_Cleaning.ipynb`.
+    * Lanjutkan dengan notebook analisis utama (`Main__Analysis.ipynb`).
