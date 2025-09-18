@@ -4,7 +4,7 @@ Repositori ini berisi analisis lengkap data penjualan untuk mengukur elastisitas
 
 ---
 
-## 🚩 Latar Belakang & Tujuan Proyek
+## Latar Belakang & Tujuan Proyek
 
 Manajemen inventori yang reaktif sering kali menyebabkan dua masalah utama: kehilangan potensi penjualan akibat kehabisan stok, dan biaya penyimpanan yang tinggi karena kelebihan stok. Proyek ini bertujuan untuk mengatasi masalah tersebut dengan membangun sebuah kerangka kerja berbasis data untuk:
 
@@ -14,7 +14,7 @@ Manajemen inventori yang reaktif sering kali menyebabkan dua masalah utama: kehi
 
 ---
 
-## ⚙️ Proses Analisis
+## Proses Analisis
 
 Analisis ini dibagi menjadi beberapa tahap utama:
 
@@ -24,7 +24,7 @@ Analisis ini dibagi menjadi beberapa tahap utama:
 
 ---
 
-## 🔑 Temuan Utama & Hasil
+## Temuan Utama & Hasil
 
 ### 1. Elastisitas Harga Sebesar -1.68
 Ditemukan hubungan negatif yang kuat antara harga dan penjualan. Ini berarti setiap kenaikan harga 1% berpotensi menurunkan penjualan sekitar 1.68%, memberikan dasar yang kuat untuk strategi penetapan harga.
@@ -40,14 +40,14 @@ Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan m
 
 ---
 
-## 🛠️ Tools & Library yang Digunakan
+## Tools & Library yang Digunakan
 * **Bahasa:** Python
 * **Library:** `pandas`, `statsmodels`, `matplotlib`
 * **Lingkungan:** Jupyter Notebook
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 1.  **Clone repositori ini:**
     ```bash
     git clone [URL_REPOSITORY_ANDA]
