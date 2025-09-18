@@ -1,6 +1,6 @@
 # Proyek Analisis Permintaan dan Optimalisasi Inventori
 
-Repositori ini berisi analisis lengkap data penjualan untuk mengukur elastisitas harga, melakukan peramalan permintaan, dan mensimulasikan tingkat inventori untuk mengidentifikasi risiko kekurangan stok (*stockout*) secara proaktif.
+Repositori ini berisi analisis data penjualan untuk mengukur elastisitas harga, melakukan peramalan permintaan, dan mensimulasikan tingkat inventori untuk mengidentifikasi risiko kekurangan stok (*stockout*) secara proaktif.
 
 ---
 
@@ -62,4 +62,4 @@ Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan m
     ```
 3.  **Jalankan notebook secara berurutan:**
     * Mulai dengan `Data_Cleaning.ipynb`.
-    * Lanjutkan dengan notebook analisis utama (`Main__Analysis.ipynb`).
+    * Lanjutkan dengan notebook analisis utama `Main__Analysis.ipynb`.
