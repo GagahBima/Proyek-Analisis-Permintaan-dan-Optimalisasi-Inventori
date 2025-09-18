@@ -54,7 +54,7 @@ Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan m
 ## Cara Menjalankan Proyek
 1.  **Clone repositori ini:**
     ```bash
-    git clone [URL_REPOSITORY_ANDA]
+    git clone [https://github.com/GagahBima/Proyek-Analisis-Permintaan-dan-Optimalisasi-Inventori]
     ```
 2.  **Install dependensi yang dibutuhkan:**
     ```bash
