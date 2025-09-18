@@ -41,9 +41,15 @@ Grafik ini menunjukkan bahwa **tanpa intervensi, perusahaan diproyeksikan akan m
 ---
 
 ## Tools & Library yang Digunakan
-* **Bahasa:** Python
-* **Library:** `pandas`, `statsmodels`, `matplotlib`
+
+* **Bahasa:** Python 3
+* **Core Libraries:** 
+  - `pandas` - Data manipulation and analysis
+  - `statsmodels` - Statistical modeling and time series analysis  
+  - `matplotlib` - Data visualization and plotting
+* **Supporting Libraries:** `numpy`, `seaborn`, `scikit-learn`
 * **Lingkungan:** Jupyter Notebook
+* **Kebutuhan Lain:** Lihat `requirements.txt`
 
 ---
 
